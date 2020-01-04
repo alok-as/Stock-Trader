@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <h1>Hello Home</h1>
+    <div id="app">
+        <h1>This is the Home</h1>
     </div>
 </template>
 
